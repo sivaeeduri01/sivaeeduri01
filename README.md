@@ -1,56 +1,187 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Siva+Eeduri;Tech+Enthusiast+%26+Developer;Always+Building+%26+Learning;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Hey%2C+I'm+Siva+Eeduri+%F0%9F%91%8B;AI%2FML+Student+%7C+Python+Developer;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <i>🎓 Computer Science Student | ⚡ Constant Tech Craver | 🚀 Problem Solver</i>
+  <b>AI/ML Student • Python Developer • Problem Solver</b>
 </p>
 
 <p align="center">
+  <a href="https://github.com/sivaeeduri01">
+    <img src="https://img.shields.io/github/followers/sivaeeduri01?label=Followers&style=flat-square&logo=github" />
+  </a>
   <a href="https://github.com/sivaeeduri01/LeetCode_workspace">
-    <img src="https://img.shields.io/badge/LeetCode-Workspace-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/sivaeeduri01/My_Blog">
-    <img src="https://img.shields.io/badge/Dev_Blog-Read_Posts-121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### ⚡ Beyond the Terminal
+## 🧠 About Me
 
-* 🎯 **Current Focus:** Deep-diving into Full-Stack Web Dev & Advanced Data Structures.
-* 🛠️ **Active Project:** Polishing **[BBDMS](https://github.com/sivaeeduri01/BBDMS)** (Blood Bank Management System).
-* 🧠 **Problem Solving:** Tracking algorithms & patterns in my **[LeetCode Workspace](https://github.com/sivaeeduri01/LeetCode_workspace)**.
-* 📝 **Technical Writing:** Sharing code walkthroughs and ideas in **[My_Blog](https://github.com/sivaeeduri01/My_Blog)**.
-* 💬 **Ask me about:** Web development, Python automation, SQL DB design, or Git workflows.
-* ⚡ **Fun Fact:** I treat debugging as a competitive sport.
+```python
+class Siva:
+    role = "AI/ML Student & Python Developer"
+
+    currently_learning = [
+        "Machine Learning",
+        "FastAPI",
+        "Data Structures & Algorithms",
+        "Backend Development"
+    ]
+
+    building = [
+        "ML APIs",
+        "AI-powered applications",
+        "Production-ready projects"
+    ]
+
+    goal = "Become a strong Software / ML Engineer 🚀"
+```
+
+I like turning **ideas → code → working products**.
+
+Currently focused on building a strong foundation in **Python, Machine Learning, backend engineering, and DSA**.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+## ⚡ What I'm Working On
 
-#### 💻 **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ **Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* 🐍 **Python** — writing cleaner and more efficient code
+* 🤖 **Machine Learning** — models, preprocessing, evaluation & deployment
+* ⚡ **FastAPI** — building production-style ML APIs
+* 🧩 **DSA** — algorithms, problem solving & interview preparation
+* ☁️ **Deployment** — taking projects beyond localhost
+* 🛠️ **Projects** — building things that actually solve problems
 
 ---
 
-### 📊 Dev Activity & Analytics
+## 🛠️ Tech Stack
+
+### 🐍 Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="45"/>
+</p>
+
+`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib`
+
+### ⚡ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+</p>
+
+### ☁️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 OptiCrop
+
+**Smart Agricultural Production Optimization Engine**
+
+> ML-powered system that predicts suitable crops using agricultural and environmental parameters.
+
+**Stack:** `Python` `Scikit-learn` `Flask` `Machine Learning`
+
+🔗 [View Project](https://github.com/sivaeeduri01)
+
+---
+
+### 🧠 RAG PDF Assistant
+
+> Building an AI system that extracts documents, chunks content, creates embeddings and retrieves relevant information through an API.
+
+**Stack:** `Python` `FastAPI` `Embeddings` `RAG` `LLM`
+
+🚧 Currently building
+
+---
+
+### 🩸 Blood Bank Management System
+
+> Full-stack application designed to manage blood donors, availability and requests.
+
+**Stack:** `Node.js` `Express` `MongoDB` `JavaScript`
+
+🔗 [View Project](https://github.com/sivaeeduri01/BBDMS)
+
+---
+
+## 🧩 DSA Journey
+
+I don't just want to **use AI**.
+
+I want to understand the fundamentals that make strong engineers.
+
+Currently practicing:
+
+`Arrays` → `Strings` → `Hashing` → `Two Pointers` → `Sliding Window` → `Binary Search` → `Linked Lists` → `Stacks` → `Trees` → `Graphs`
+
+📌 [My DSA / LeetCode Workspace](https://github.com/sivaeeduri01/LeetCode_workspace)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivaeeduri01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Siva's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaeeduri01&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivaeeduri01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaeeduri01&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaeeduri01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaeeduri01&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 2027 Mission
+
+```text
+Python        ███████████████░░░
+DSA           ███████████░░░░░░░
+Machine Learn █████████░░░░░░░░░░
+FastAPI       ████████░░░░░░░░░░░
+Cloud         ███████░░░░░░░░░░░░
+System Design ████░░░░░░░░░░░░░░
+```
+
+**Build real projects.
+Solve real problems.
+Get interview-ready.
+Ship consistently. 🚀**
+
+---
+
+<p align="center">
+  <i>“Less tutorial watching. More building.”</i>
+</p>
+
+<p align="center">
+  <b>— Siva Eeduri</b>
 </p>
